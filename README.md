@@ -1,6 +1,6 @@
 ![Pushkin Logo](http://i.imgur.com/ncRJMJ5.png)
 
-# Experiment Workers
+# Experiment Migrations
 
 # Overview
 * holds the migrations for experiments
